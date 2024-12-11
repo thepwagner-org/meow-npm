@@ -12,7 +12,7 @@
   },
   "scripts": {
     "test": "jest",
-    "release": "npm run build && changeset publish",
+    "release": "npm run build && npm pack && changeset publish",
     "build": "tsc"
   },
   "author": "1559510+thepwagner@users.noreply.github.com",

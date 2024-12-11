@@ -1,5 +1,11 @@
 # @thepwagner-org/meow-npm
 
+## 0.0.4
+
+### Patch Changes
+
+- d07c358: Attempt at getting a tag+release pushed back
+
 ## 0.0.3
 
 ### Patch Changes

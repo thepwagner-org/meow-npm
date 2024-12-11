@@ -56,3 +56,5 @@ jobs:
         run: |
           VERSION=$(jq -r .version package.json)
           gh release upload "v${VERSION}" "meow-npm-${VERSION}.tgz"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

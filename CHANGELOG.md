@@ -1,5 +1,11 @@
 # @thepwagner-org/meow-npm
 
+## 0.0.10
+
+### Patch Changes
+
+- c18fd61: test diy globbing
+
 ## 0.0.9
 
 ### Patch Changes

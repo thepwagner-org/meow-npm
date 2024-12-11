@@ -55,6 +55,6 @@ jobs:
         if: steps.changesets.outputs.published == 'true'
         run: |
           VERSION=$(jq -r .version package.json)
-          gh release upload "v${VERSION}" "thepwagner-org-meow-npm-${VERSION}.tgz"
+          gh release upload "v${VERSION}" "*.tgz"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

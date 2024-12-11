@@ -1,5 +1,11 @@
 # @thepwagner-org/meow-npm
 
+## 0.0.7
+
+### Patch Changes
+
+- 51803ab: fix gh_token reference
+
 ## 0.0.6
 
 ### Patch Changes

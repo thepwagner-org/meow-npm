@@ -1,5 +1,11 @@
 # @thepwagner-org/meow-npm
 
+## 0.0.5
+
+### Patch Changes
+
+- cbe4452: upload artifact to gh rleease
+
 ## 0.0.4
 
 ### Patch Changes

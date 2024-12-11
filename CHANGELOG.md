@@ -1,5 +1,11 @@
 # @thepwagner-org/meow-npm
 
+## 0.0.9
+
+### Patch Changes
+
+- d1c79d6: attempt release via reusable workflow
+
 ## 0.0.8
 
 ### Patch Changes

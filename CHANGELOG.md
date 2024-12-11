@@ -1,5 +1,11 @@
 # @thepwagner-org/meow-npm
 
+## 0.0.6
+
+### Patch Changes
+
+- c293f69: fix build command
+
 ## 0.0.5
 
 ### Patch Changes

@@ -6,6 +6,7 @@
   "version": "0.0.1",
   "description": "Determines if a string is a meow.",
   "main": "dist/index.js",
+  "repository": "https://github.com/thepwagner-org/meow-npm",
   "scripts": {
     "test": "jest",
     "build": "tsc"

@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Determines if a string is a meow.",
   "main": "dist/index.js",
   "repository": {
